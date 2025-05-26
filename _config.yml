@@ -15,7 +15,7 @@ author:
   linkedin: diegopolancolahoz
 
 # Build settings
-theme: minimal
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
