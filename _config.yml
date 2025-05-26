@@ -1,0 +1,71 @@
+# Site settings
+title: "Diego A. Polanco-Lahoz"
+email: "Diego.Polanco-Lahoz@ttu.edu"
+description: >-
+  Ph.D. Candidate in Systems and Engineering Management | Texas Tech University.
+baseurl: "" # leave empty for user.github.io
+url: "https://diegopolancolahoz.github.io"
+
+# Author info
+author:
+  name: "Diego A. Polanco-Lahoz"
+  email: "Diego.Polanco-Lahoz@ttu.edu"
+  avatar: "/images/about-photo.jpg"
+  github: diegopolancolahoz
+  linkedin: diegopolancolahoz
+
+# Build settings
+theme: minimal
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+collections:
+  teaching:
+    output: true
+  publications:
+    output: true
+  projects:
+    output: true
+  posts:
+    output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Navigation (this creates the navbar menu)
+nav_pages:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Research
+    link: /research/
+  - name: Publications
+    link: /publications/
+  - name: Teaching
+    link: /teaching/
+  - name: CV
+    link: /cv/
+  - name: Contact
+    link: /contact/
+
+# Google Analytics (optional)
+google_analytics: ""
+
+# Social media (for SEO and footers)
+social:
+  type: Person
+  name: "Diego A. Polanco-Lahoz"
+  links:
+    - "https://www.linkedin.com/in/diegopolancolahoz"
+    - "https://github.com/diegopolancolahoz"
+
+# Dark mode customization
+minimal_mistakes_skin: "dark"
