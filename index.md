@@ -12,7 +12,7 @@ This site serves as a portfolio of my academic journey, research, teaching, and 
 
 ### 🔗 Site Navigation
 
-- [About](/_pages/about/)
+- [About](/_pages/about.md/)
 - [Research](/research/)
 - [Publications](/publications/)
 - [Teaching](/teaching/)
