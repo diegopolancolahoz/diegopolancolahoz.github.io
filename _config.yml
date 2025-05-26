@@ -69,3 +69,8 @@ social:
 
 # Dark mode customization
 minimal_mistakes_skin: "dark"
+
+# Sass Settings
+sass:
+  sass_dir: _sass
+  style: compressed
