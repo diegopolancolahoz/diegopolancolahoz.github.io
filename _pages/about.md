@@ -7,7 +7,6 @@ permalink: /about/
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="/images/about-photo.jpg" alt="Diego at IISE Conference" style="max-width: 220px; border-radius: 10px; margin-top: 5px;">
   <div>
-    <p>Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate in Systems and Engineering Management at Texas Tech University. My academic work bridges organizational resilience, engineering education, and systems thinking.</p>
   </div>
 </div>
 
