@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-![Diego presenting at IISE](/images/research-presentation.jpg)
+<img src="/images/research-presentation.jpg" alt="Diego presenting at IISE" style="max-width: 300px; border-radius: 10px; margin: 1em auto;">
 
 My research centers around organizational resilience, systems engineering, and the design of educational systems. I investigate how universities can prepare for, respond to, and grow from complex challenges.
 
