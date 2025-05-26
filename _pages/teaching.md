@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-![Teaching presentation](/images/teaching-presentation.jpg)
+![Teaching presentation](/images/teaching-presentation.png)
 
 I believe in fostering critical thinking and bridging theory and practice. My teaching approach is student-centered, applied, and reflective.
 
