@@ -13,8 +13,8 @@ This site serves as a portfolio of my academic journey, research, teaching, and 
 ### 🔗 Site Navigation
 
 - [About](/_pages/about.md/)
-- [Research](/research/)
-- [Publications](/publications/)
-- [Teaching](/teaching/)
-- [CV](/cv/)
-- [Contact](/contact/)
+- [Research](/_pages/research.md/)
+- [Publications](/_pages/publications.md/)
+- [Teaching](/_pages/teaching.md/)
+- [CV](/_pages/cv.md/)
+- [Contact](/_pages/contact.md/)
