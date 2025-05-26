@@ -4,7 +4,7 @@ title: "Diego A. Polanco-Lahoz"
 subtitle: "Ph.D. Candidate in Systems and Engineering Management | Texas Tech University"
 ---
 
-![Diego with Chilean Flag](/images/intro-photo.jpg){: .profile-img }
+![Diego with Chilean Flag](/images/intro-photo.jpg)
 
 Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate at Texas Tech University in Systems and Engineering Management. My academic research focuses on organizational resilience, engineering education, and systems methods such as FRAM and RAG.
 
