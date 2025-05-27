@@ -17,3 +17,14 @@ sidebar: false
 LinkedIn: <a href="https://www.linkedin.com/in/diegopolancolahoz" target="_blank">linkedin.com/in/diegopolancolahoz</a></p>
 
 <p>Feel free to reach out with questions, ideas, or opportunities!</p>
+<div style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ddd;">
+  <h3>Explore My Work</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 1em;">
+    <a href="/about/" style="background-color: #2e6da4; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">About</a>
+    <a href="/research/" style="background-color: #2e6da4; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">Research</a>
+    <a href="/teaching/" style="background-color: #2e6da4; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">Teaching</a>
+    <a href="/publications/" style="background-color: #2e6da4; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">Publications</a>
+    <a href="/cv/" style="background-color: #2e6da4; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">CV</a>
+    <a href="/contact/" style="background-color: #2e6da4; color: white; padding: 10px 16px; border-radius: 6px; text-decoration: none;">Contact</a>
+  </div>
+</div>
