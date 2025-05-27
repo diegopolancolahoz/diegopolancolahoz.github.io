@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-  <img src="/images/teaching-presentation.jpg" alt="Teaching session at Texas Tech" style="max-width: 240px; border-radius: 12px;">
+  <img src="/images/teaching-presentation.png" alt="Teaching session at Texas Tech" style="max-width: 240px; border-radius: 12px;">
 
   <div style="flex: 1; min-width: 280px;">
     <p>I believe in fostering critical thinking and bridging theory with practice. My teaching philosophy centers around creating inclusive, engaging, and applied learning environments that help students develop both technical and reflective skills.</p>
