@@ -12,6 +12,6 @@ sidebar: false
 </div>
 
 <ul>
-  <li><strong>Polanco-Lahoz, D. A.</strong>, Cross, J. (2024). Assessing Resilience in Higher Education Institutions Using FRAM and RAG. <em>International Journal of Engineering Education</em>. (In preparation)</li>
-  <li><strong>Polanco-Lahoz, D. A.</strong> (2023). Applying Systems Thinking in Educational Contexts. <em>IISE Annual Conference Proceedings</em>.</li>
+  <li><strong>Polanco-Lahoz, D. A.</strong>, & Cross, J. (2024). <em>Assessing Resilience in Higher Education Institutions Using FRAM and RAG</em>. International Journal of Engineering Education. (In preparation)</li>
+  <li><strong>Polanco-Lahoz, D. A.</strong> (2023). <em>Applying Systems Thinking in Educational Contexts</em>. IISE Annual Conference Proceedings.</li>
 </ul>
