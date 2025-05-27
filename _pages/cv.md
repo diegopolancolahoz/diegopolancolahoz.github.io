@@ -11,10 +11,10 @@ sidebar: false
   <p style="font-size: 1.2em;">Download or browse my academic CV below.</p>
 </div>
 
-<object data="/files/DAPL_CV.pdf" type="application/pdf" width="100%" height="800px">
-  <p>Your browser does not support embedded PDFs. <a href="/files/DAPL_CV.pdf">Download the CV here.</a></p>
+<object data="/assets/files/DAPL_CV.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Your browser does not support embedded PDFs. <a href="/assets/files/DAPL_CV.pdf">Download the CV here.</a></p>
 </object>
 
 <p style="margin-top: 1em;">
-  <a href="/files/DAPL_CV.pdf" class="btn btn--primary">Download PDF</a>
+  <a href="/assets/files/DAPL_CV.pdf" class="btn btn--primary">Download PDF</a>
 </p>
