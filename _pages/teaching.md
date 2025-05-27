@@ -12,18 +12,18 @@ sidebar: false
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-  <img src="/images/teaching-presentation.jpg" alt="Teaching session at Texas Tech" style="max-width: 240px; border-radius: 12px;">
+  <img src="/images/teaching-presentation.png" alt="Teaching at Texas Tech" style="max-width: 240px; border-radius: 12px;">
 
   <div style="flex: 1; min-width: 280px;">
-    <p>I believe in active learning, critical thinking, and real-world application. My approach combines engineering, ethics, and systems thinking with project-based instruction and mentorship.</p>
+    <p>I believe in fostering critical thinking and bridging theory with practice. My teaching philosophy centers around creating inclusive, engaging, and applied learning environments that help students develop both technical and reflective skills.</p>
 
-    <p>I've taught undergraduate courses in Chile and supported graduate-level engineering courses in the U.S., always with an emphasis on inclusive, interdisciplinary instruction.</p>
+    <p>I've taught undergraduate courses in Chile and served as a TA in graduate courses in the U.S., combining systems engineering, ethics, and leadership development in my instruction.</p>
   </div>
 </div>
 
 ---
 
-### 📘 Courses Taught – PUCV (Chile)
+### Courses Taught – PUCV (Chile)
 
 - Introduction to Industrial Engineering  
 - Economic Analysis 2  
@@ -33,6 +33,6 @@ sidebar: false
 
 ---
 
-### 📗 Courses Supported – Texas Tech University
+### Courses Supported – Texas Tech University
 
-- TA & RA in Systems and Engineering Management since 2021
+- Graduate-level courses in Systems and Engineering Management (as TA/RA)
