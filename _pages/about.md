@@ -1,9 +1,15 @@
 ---
-layout: page
-author_profile: true
+layout: single
 title: "About"
 permalink: /about/
+author_profile: false
+sidebar: false
 ---
+
+<div style="background: var(--mm-dark); color: white; padding: 2em 1.5em; border-radius: 12px; margin-bottom: 2em;">
+  <h1 style="margin-top: 0;">About Me</h1>
+  <p style="font-size: 1.2em;">Ph.D. Candidate in Systems and Engineering Management | Texas Tech University</p>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
   <img src="/images/about-photo.jpg" alt="Diego Polanco Lahoz" style="max-width: 240px; border-radius: 12px;">
