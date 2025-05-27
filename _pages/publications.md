@@ -1,17 +1,17 @@
 ---
-layout: page
-author_profile: true
+layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: false
+sidebar: false
 ---
 
-### Journal Articles
+<div style="background: var(--mm-dark); color: white; padding: 2em 1.5em; border-radius: 12px; margin-bottom: 2em;">
+  <h1 style="margin-top: 0;">Publications</h1>
+  <p style="font-size: 1.2em;">Selected peer-reviewed and conference contributions</p>
+</div>
 
-- **Tham, J., Polanco-Lahoz, D.A., et al.** (2025). *Professionalizing Researchers...*, IEEE Transactions on Professional Communication.
-- **Jensen, P.H., Cross, J., Polanco-Lahoz, D.A.** (2024). *COVID-19's impact...*, The TQM Journal. [DOI](https://doi.org/10.1108/TQM-08-2023-0269)
-- **Tapia-Ubeda, F.J., Isbej-Muga, J.A., Polanco-Lahoz, D.A.** (2021). *Greening factor framework...*, Sustainability. [DOI](https://doi.org/10.3390/su132413575)
-
-### Conference Presentations
-
-- ASEE, IISE, IEEE ProComm (2023–2024)
-- See full CV for detailed titles
+<ul>
+  <li><strong>Polanco-Lahoz, D. A.</strong>, Cross, J. (2024). Assessing Resilience in Higher Education Institutions Using FRAM and RAG. <em>International Journal of Engineering Education</em>. (In preparation)</li>
+  <li><strong>Polanco-Lahoz, D. A.</strong> (2023). Applying Systems Thinking in Educational Contexts. <em>IISE Annual Conference Proceedings</em>.</li>
+</ul>
