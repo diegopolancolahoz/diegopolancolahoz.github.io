@@ -1,19 +1,23 @@
 ---
-layout: page
-author_profile: true
+layout: single
 title: "Research"
 permalink: /research/
+author_profile: false
+sidebar: false
 ---
+
+<div style="background: var(--mm-dark); color: white; padding: 2em 1.5em; border-radius: 12px; margin-bottom: 2em;">
+  <h1 style="margin-top: 0;">Research</h1>
+  <p style="font-size: 1.2em;">Organizational Resilience | Engineering Education | Systems Thinking</p>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
   <img src="/images/research-presentation.jpg" alt="Diego presenting at IISE" style="max-width: 240px; border-radius: 12px;">
 
   <div style="flex: 1; min-width: 280px;">
-    <p>My research centers around organizational resilience, systems engineering, and the design of educational systems. I investigate how universities can prepare for, respond to, and grow from complex challenges by applying systems-thinking methods.</p>
+    <p>My research focuses on organizational resilience, systems engineering, and improving decision-making frameworks in higher education. I use methods like the Functional Resonance Analysis Method (FRAM) and the Resilience Analysis Grid (RAG) to study institutional adaptability and response.</p>
 
-    <p>I use tools such as the Functional Resonance Analysis Method (FRAM) and the Resilience Analysis Grid (RAG) to analyze complex interactions and uncover hidden dynamics in institutional decision-making and educational systems.</p>
-
-    <p>I’m particularly interested in interdisciplinary research that blends engineering, organizational behavior, and higher education policy.</p>
+    <p>Through NSF-supported work, I’ve applied these methods to explore how universities can anticipate, adapt to, and grow through disruptions — offering practical, systemic tools for academic leadership and planning.</p>
   </div>
 </div>
 
@@ -23,5 +27,3 @@ permalink: /research/
 
 **Title:**  
 *“Leveraging Resilience Analysis Grid (RAG) and Functional Resonance Analysis Method (FRAM) for Assessing Organizational Resilience Potential in Higher Education Institutions”*
-
-This NSF-supported dissertation explores how to assess and enhance resilience in academic institutions using systems engineering methodologies.
