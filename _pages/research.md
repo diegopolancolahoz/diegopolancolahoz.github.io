@@ -12,7 +12,7 @@ sidebar: false
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-  <img src="/images/research-presentation.jpg" alt="Diego presenting at IISE" style="max-width: 240px; border-radius: 12px;">
+  <img src="/images/research-presentation.jpg" alt="Diego presenting research" style="max-width: 240px; border-radius: 12px;">
 
   <div style="flex: 1; min-width: 280px;">
     <p>My research focuses on organizational resilience, systems engineering, and improving decision-making frameworks in higher education. I use methods like the Functional Resonance Analysis Method (FRAM) and the Resilience Analysis Grid (RAG) to study institutional adaptability and response.</p>
@@ -23,7 +23,7 @@ sidebar: false
 
 ---
 
-### 🎓 Dissertation
+### Dissertation
 
 **Title:**  
-*“Leveraging Resilience Analysis Grid (RAG) and Functional Resonance Analysis Method (FRAM) for Assessing Organizational Resilience Potential in Higher Education Institutions”*
+*Leveraging Resilience Analysis Grid (RAG) and Functional Resonance Analysis Method (FRAM) for Assessing Organizational Resilience Potential in Higher Education Institutions*
