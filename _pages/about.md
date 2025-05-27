@@ -22,3 +22,7 @@ sidebar: false
     <p>In both research and instruction, I value interdisciplinarity, human-centered systems design, and creating spaces for thoughtful academic collaboration.</p>
   </div>
 </div>
+<p style="text-align: right; margin-top: 2em;">
+  <a href="/research/" class="btn btn--primary">Next → Research</a>
+</p>
+
