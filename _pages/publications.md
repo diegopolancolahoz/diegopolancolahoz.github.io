@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 sidebar: false
+previous: false
+next: false
 ---
 
 <div style="background: var(--mm-dark); color: white; padding: 2em 1.5em; border-radius: 12px; margin-bottom: 2em;">
