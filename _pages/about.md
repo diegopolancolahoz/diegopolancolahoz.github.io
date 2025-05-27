@@ -23,6 +23,6 @@ sidebar: false
   </div>
 </div>
 <p style="text-align: right; margin-top: 2em;">
-  <a href="/research/" class="btn btn--primary">Next → Research</a>
+  <a href="/_pages/research/" class="btn btn--primary">Next → Research</a>
 </p>
 
