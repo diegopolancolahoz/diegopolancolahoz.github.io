@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Diego Polanco Lahoz's website"
+title: "Welcome to my webpage!"
 subtitle: "Ph.D. Candidate in Systems and Engineering Management | Texas Tech University"
 ---
 
