@@ -1,17 +1,23 @@
 ---
-layout: page
-author_profile: true
+layout: single
 title: "Teaching"
 permalink: /teaching/
+author_profile: false
+sidebar: false
 ---
 
+<div style="background: var(--mm-dark); color: white; padding: 2em 1.5em; border-radius: 12px; margin-bottom: 2em;">
+  <h1 style="margin-top: 0;">Teaching</h1>
+  <p style="font-size: 1.2em;">Student-Centered | Interdisciplinary | Applied Learning</p>
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-  <img src="/images/teaching-presentation.png" alt="Teaching session at Texas Tech" style="max-width: 240px; border-radius: 12px;">
+  <img src="/images/teaching-presentation.jpg" alt="Teaching session at Texas Tech" style="max-width: 240px; border-radius: 12px;">
 
   <div style="flex: 1; min-width: 280px;">
-    <p>I believe in fostering critical thinking and bridging theory with practice. My teaching philosophy centers around creating inclusive, engaging, and applied learning environments that help students develop both technical and reflective skills.</p>
+    <p>I believe in active learning, critical thinking, and real-world application. My approach combines engineering, ethics, and systems thinking with project-based instruction and mentorship.</p>
 
-    <p>I’ve designed and delivered courses in industrial engineering, management, and systems thinking — both at the undergraduate and graduate levels. I am particularly passionate about student mentorship, project-based learning, and interdisciplinary instruction.</p>
+    <p>I've taught undergraduate courses in Chile and supported graduate-level engineering courses in the U.S., always with an emphasis on inclusive, interdisciplinary instruction.</p>
   </div>
 </div>
 
@@ -19,14 +25,14 @@ permalink: /teaching/
 
 ### 📘 Courses Taught – PUCV (Chile)
 
-- Introduction to Industrial Engineering (2015–2019)  
-- Economic Analysis 2 (2019–2020)  
-- Engineering Ethics (2018–2019)  
-- Engineering Financing (Spring 2020)  
-- Leadership (Spring/Fall 2020)  
+- Introduction to Industrial Engineering  
+- Economic Analysis 2  
+- Engineering Ethics  
+- Engineering Financing  
+- Leadership  
 
 ---
 
 ### 📗 Courses Supported – Texas Tech University
 
-- Teaching Assistant and Research Assistant in graduate-level Systems and Engineering Management courses since 2021.
+- TA & RA in Systems and Engineering Management since 2021
