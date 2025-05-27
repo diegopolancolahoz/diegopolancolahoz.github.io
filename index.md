@@ -4,13 +4,13 @@ title: "Diego A. Polanco-Lahoz"
 subtitle: "Ph.D. Candidate in Systems and Engineering Management | Texas Tech University"
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="/images/intro-photo.jpg" alt="Profile picture" style="max-width: 160px; border-radius: 10px;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+  <img src="/images/intro-photo.jpg" alt="Profile picture" style="max-width: 240px; border-radius: 12px;">
 
-  <div>
+  <div style="flex: 1; min-width: 280px;">
     <p>Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate at Texas Tech University in Systems and Engineering Management. My academic research focuses on organizational resilience, engineering education, and systems methods such as FRAM and RAG.</p>
 
-    <p>This site serves as a portfolio of my academic journey, research, teaching, and professional contributions.</p>
+    <p>This site serves as a portfolio of my academic journey, research, teaching, and professional contributions. Feel free to explore and reach out!</p>
   </div>
 </div>
 
