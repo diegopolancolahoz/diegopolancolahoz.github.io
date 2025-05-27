@@ -4,13 +4,14 @@ title: "About"
 permalink: /about/
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="/images/about-photo.jpg" alt="Diego at IISE Conference" style="max-width: 220px; border-radius: 10px; margin-top: 5px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <img src="/images/about-photo.jpg" alt="Diego Polanco Lahoz" style="max-width: 160px; border-radius: 10px; margin-top: 5px;">
+
   <div>
+    <p>Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate in Systems and Engineering Management at Texas Tech University. My academic journey bridges engineering, systems thinking, and resilience theory with practical applications in higher education and organizational assessment.</p>
+
+    <p>Prior to Texas Tech, I earned my B.S. and M.S. in Industrial Engineering at Pontificia Universidad Católica de Valparaíso in Chile. I’ve also worked as a business analyst and held teaching and research assistant roles in engineering and management settings.</p>
+
+    <p>In both research and instruction, I value interdisciplinarity, human-centered systems design, and creating spaces for thoughtful academic collaboration.</p>
   </div>
 </div>
-
-
-Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate in Systems and Engineering Management at Texas Tech University. My academic work bridges organizational resilience, engineering education, and systems thinking.
-
-Before joining Texas Tech, I earned a B.S. and M.S. in Industrial Engineering from Pontificia Universidad Católica de Valparaíso in Chile. I’ve also worked as a business analyst and served as a research and teaching assistant in multiple contexts.
