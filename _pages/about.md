@@ -17,11 +17,10 @@ next: false
   <img src="/images/about-photo.jpg" alt="Diego Polanco Lahoz" style="max-width: 240px; border-radius: 12px;">
 
   <div style="flex: 1; min-width: 280px;">
-    <p>Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate in Systems and Engineering Management at Texas Tech University. My academic journey bridges engineering, systems thinking, and resilience theory with practical applications in higher education and organizational assessment.</p>
-
-    <p>Prior to Texas Tech, I earned my B.S. and M.S. in Industrial Engineering at Pontificia Universidad Católica de Valparaíso in Chile. I’ve also worked as a business analyst and held teaching and research assistant roles in engineering and management settings.</p>
-
-    <p>In both research and instruction, I value interdisciplinarity, human-centered systems design, and creating spaces for thoughtful academic collaboration.</p>
+    <p>Hello! I’m Diego A. Polanco-Lahoz, a Ph.D. candidate in Systems and Engineering Management at Texas Tech University. My work bridges engineering, systems thinking, and resilience theory with human-centered approaches to address complex challenges in higher education and organizational design.</p>
+    <p>My research focuses on organizational resilience in academic institutions, the application of User Experience (UX) methods to study Ph.D. student identity development, and the use of systems-based tools such as the Functional Resonance Analysis Method (FRAM) and the Resilience Analysis Grid (RAG). I’m currently involved in a multidisciplinary, NSF-funded research project that explores how engineering doctoral programs can be enhanced through more effective student experience mapping and systems-level insights.</p>
+    <p>Prior to Texas Tech, I earned both my B.S. and M.S. in Industrial Engineering from Pontificia Universidad Católica de Valparaíso in Chile. I’ve worked as a business analyst and served in teaching and research assistant roles across engineering, management, and education-focused projects.</p>
+    <p>In both research and instruction, I value interdisciplinarity, inclusive systems design, and fostering collaboration across diverse academic and professional communities.</p>
   </div>
 </div>
 <div style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ddd;">
