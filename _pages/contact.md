@@ -1,5 +1,6 @@
 ---
 layout: page
+author_profile: true
 title: "Contact"
 permalink: /contact/
 ---
