@@ -8,10 +8,7 @@ previous: false
 next: false
 ---
 
-<div style="background: var(--mm-dark); color: white; padding: 2em 1.5em; border-radius: 12px; margin-bottom: 2em;">
-  <h1 style="margin-top: 0;">About Me</h1>
-  <p style="font-size: 1.2em;">Ph.D. Candidate in Systems and Engineering Management | Texas Tech University</p>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 2em; align-items: stretch; margin-bottom: 2em;">
 
  <!-- 📷 Image Column -->
   <div style="flex: 1; min-width: 280px;">
@@ -24,6 +21,7 @@ next: false
     <p>Prior to Texas Tech, I earned both my B.S. and M.S. in Industrial Engineering from Pontificia Universidad Católica de Valparaíso in Chile. I’ve worked as a business analyst and served in teaching and research assistant roles across engineering, management, and education-focused projects.</p>
     <p>In both research and instruction, I value interdisciplinarity, inclusive systems design, and fostering collaboration across diverse academic and professional communities.</p>
   </div>
+</div>
 <div style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ddd;">
   <h3>Explore My Work</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 1em;">
