@@ -12,10 +12,12 @@ sidebar: false
 </div>
 
 <img src="/images/research-presentation.jpg" alt="Diego presenting research" style="max-width: 100%; border-radius: 12px; margin-bottom: 1.5em;" />
+<p><b>Research Involvement</b></p>
+<p>My research centers on Organizational Resilience, Systems Engineering, and the development of decision-making frameworks tailored to higher education contexts. I apply systems-based methods such as the Functional Resonance Analysis Method (FRAM) and the Resilience Analysis Grid (RAG) to examine how universities understand, evaluate, and strengthen their resilience potentials.</p>
 
-<p>My research focuses on organizational resilience, systems engineering, and improving decision-making frameworks in higher education. I use methods like the Functional Resonance Analysis Method (FRAM) and the Resilience Analysis Grid (RAG) to study institutional adaptability and response.</p>
+<p>In addition to my personal dissertation research, I have served as a research assistant on an NSF-supported project focused on the development of researcher identity among Ph.D. students. Under the guidance of Dr. Jennifer Cross, Dr. Mario Beruvides, Dr. Kelli Cargile Cook, and Dr. Jason Tham, our interdisciplinary team investigates how students across different modalities (online and onsite) form and navigate their researcher identities throughout their doctoral journey.</p>
 
-<p>Through NSF-supported work, I’ve applied these methods to explore how universities can anticipate, adapt to, and grow through disruptions — offering practical, systemic tools for academic leadership and planning.</p>
+<p>By integrating user experience (UX) methodologies—including journey mapping, focus groups, and interviews—with survey-based data, we aim to uncover patterns, challenges, and key moments that shape identity development in doctoral education.</p>
 
 ---
 
