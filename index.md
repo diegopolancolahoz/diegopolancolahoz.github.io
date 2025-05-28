@@ -10,7 +10,7 @@ sidebar: false
 
   <!-- 📷 Image Column -->
   <div style="flex: 1; min-width: 280px;">
-    <img src="/images/index-profile.jpg" alt="Diego Polanco Lahoz" style="max-width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
+    <img src="/images/intro-photo.jpg" alt="Diego Polanco Lahoz" style="max-width: 100%; height: 100%; object-fit: cover; border-radius: 12px;" />
   </div>
 
   <!-- 📝 Text Column -->
