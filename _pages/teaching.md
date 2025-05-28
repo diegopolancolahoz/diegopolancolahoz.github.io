@@ -21,17 +21,19 @@ sidebar: false
 
 ### Courses Taught – PUCV (Chile)
 
-- Introduction to Industrial Engineering  
-- Economic Analysis 2  
-- Engineering Ethics  
-- Engineering Financing  
-- Leadership  
+- Introduction to Industrial Engineering (Instructor: Matilde Castillo Vasquez, M.S.) 
+- Economic Analysis 2 (Instructor: Fabiola Cabrera, M.P.A.)
+- Engineering Ethics (Instructor: Patricia Jimenez Rojas, M.S.) 
+- Engineering Financing (Instructor: Ignacio Belaustegui) 
+- Leadership (Instructor: Norberto Sainz Bernat, MBA)
 
 ---
 
 ### Courses Supported – Texas Tech University
 
-- Graduate-level courses in Systems and Engineering Management (as TA/RA)
+- IE 5329 - Project Management (Instructor: Dr. Jennifer Cross)
+- IE 5325 - Productivity and Performance Improvement in Organizations: Lean Methods (Instructor: Dr. Jennifer Cross)
+  
 <div style="margin-top: 3em; padding-top: 2em; border-top: 1px solid #ddd;">
   <h3>Explore My Work</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 1em;">
