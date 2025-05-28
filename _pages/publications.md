@@ -12,6 +12,8 @@ next: false
   <h1 style="margin-top: 0;">Publications</h1>
   <p style="font-size: 1.2em;">Selected peer-reviewed and conference contributions</p>
 </div>
+
+<p>To see the details of each publication, you can check my <a href="https://scholar.google.com/citations?hl=es&user=IcFQBfYAAAAJ">Google Scholar webpage.</a></p>
 <!-- Journal publications-->
 <h3><strong>Refereed Journal Publications</strong></h3>
 <ul>
